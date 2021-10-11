@@ -1,0 +1,12 @@
+ToDo:
+
+1- OFFICIAL -> Shared Partitions (2020)
+2- OFFICIAL -> Full-OTA update (2021)
+3- UNOFFICIAL -> Armbian, coreElec
+4- Tutorials -> Remove bloatware keyboard apps
+5- Tutorials -> Backup using TWRP
+6- Tutorials -> Backup each partiotion using computer
+7- Tutorials -> Add any app (Ex. YouTube) to system apps
+8- DOCs -> AML Docs
+9- SOFTWARE -> balenaetcher (link or?)
+10- Tutorials -> Common problems & tricks
